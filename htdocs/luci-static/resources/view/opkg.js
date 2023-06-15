@@ -1141,7 +1141,7 @@ return view.extend({
 		var view = E([], [
 			E('style', { 'type': 'text/css' }, [ css ]),
 
-			E('h2', {}, _('Software')),
+			E('h2', {}, _('OPKG Software')),
 
 			E('div', { 'class': 'controls' }, [
 				E('div', {}, [
