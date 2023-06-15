@@ -1,6 +1,6 @@
 {
 	"admin/system/opkg": {
-		"title": "OPKG Software",
+		"title": "Software",
 		"order": 30,
 		"action": {
 			"type": "view",
